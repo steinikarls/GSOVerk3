@@ -37,4 +37,4 @@ Skilaðu tvær slóðir inná Innu:
 Gott er að venja sig á að hafa readme.txt skrá með vefnum þar sem þú getur komið
 skýringum og ábendingum til kennara og punktum varðandi stillingar, uppsetningu
 á vef osfrv.
-Ekki er tekið við seinskilum (skila því sem hefur klárast)
+Ekki er tekið við seinskilum (skila því sem hefur klárast).
